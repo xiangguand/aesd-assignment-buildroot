@@ -4,3 +4,6 @@
 [submodule "buildroot"]
 	path = buildroot
 	url = https://github.com/buildroot/buildroot.git
+[submodule "aesd-ldd3"]
+	path = aesd-ldd3
+	url = https://github.com/ZXPAY/aesd-ldd3
